@@ -8,3 +8,4 @@ Consiste en un viajero que quiere saber cual es el camino mas
 ## $G$ es una grafica Hamiltoniana
 ## Puentes de Coningsberg
 ## Nociones del problema P=NP
+Estos son algunos de los problemas clasicos
