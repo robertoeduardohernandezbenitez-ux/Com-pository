@@ -10,4 +10,6 @@ Consiste en un viajero que quiere saber cual es el camino mas
 ## Nociones del problema P=NP
 Estos son algunos de los problemas clasicos
 la grafica $G$ 
-La formula $$x=\frac{-b\pm \sqrt{b²-4ac}}{2a}$$
+La formula:
+
+$$x=\frac{-b\pm \sqrt{b²-4ac}}{2a}$$
