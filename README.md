@@ -9,5 +9,8 @@ Consiste en un viajero que quiere saber cual es el camino mas
 ## Puentes de Coningsberg
 ## Nociones del problema P=NP
 Estos son algunos de los problemas clasicos
-Inline: la grafica $G$
-Display: La formula $$ x=frac{-b\pm \sqrt{b²-4ac}{2a} $$
+Inline: 
+la grafica $G$
+Display: 
+La formula 
+$$ x=\frac{-b\pm \sqrt{b²-4ac}{2a} $$
